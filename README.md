@@ -1,4 +1,4 @@
-# Predicting breathing patterns using EEG data - a neural network based deep breathing classification model
+# Predicting Breathing Patterns using EEG Data - a Neural Network based Deep Breathing Classification Model
 
 ## Introduction 
 Normal ventilation is largely an autonomic process in humans, with brain signals from accessory muscles filtered out during resting state (RS) analysis. A deep breathing (DB) exercise requires control of respiratory patterns of the inspiratory expansion and expiratory contraction. The present study compares the EEG signals during RS and DB, with a specific focus on analyzing alpha, beta, and theta frequency band rhythms of the motor regions of the brain. The study also presents a neural network-based classification model to predict breathing patterns. 
